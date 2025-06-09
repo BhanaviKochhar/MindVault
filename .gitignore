@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Python virtual environment
+venv/
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+*.egg-info/
+
+# Frontend build
+*.next/
+.next/
+out/
+*.log
+
+# Database & search indexes
+*.sqlite3
+*.db
+*.bak
+*.faiss
+*.pinecone
